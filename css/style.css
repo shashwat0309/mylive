@@ -417,7 +417,7 @@ h3 {
 /* line 29, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #37EBED;
+  background: #FF3D00;
   color: #fff;
   display: inline-block;
   padding: 14px 27px;
@@ -441,7 +441,7 @@ h3 {
 
 /* line 48, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_btn.scss */
 .boxed-btn3:hover {
-  background: #4BA8FD;
+  background: #00A513;
   color: #fff !important;
 }
 
@@ -1358,13 +1358,13 @@ h3 {
 /* line 22, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
 .slider_area .single_slider .phone_thumb {
   position: relative;
-  top: 110px;
+  top: 0px;
 }
 
 @media (max-width: 767px) {
   /* line 22, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
   .slider_area .single_slider .phone_thumb {
-    top: 60px;
+    top: 0px;
   }
 }
 
